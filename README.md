@@ -1,2 +1,2 @@
-# vbs_test
-Visual Basic Script Test
+# Visual Basic Script
+this is a simple dialog box i made... LOL
